@@ -1,0 +1,32 @@
+@import "tailwindcss";
+* {
+  color: #fff;
+  
+}
+
+body{
+ background-color: #111;
+}
+/* #taskList::-webkit-scrollbar{
+  display: none;
+} */
+button{
+  cursor:pointer;
+}
+/* .scroll-container {
+  
+  overflow-y: auto;
+  overflow-x: auto;
+  position: relative;
+  scrollbar-width: thin;
+} */
+
+/* .scroll-container::after {
+  content: '>';
+  position: absolute;
+  right: 5px;
+  bottom: 5px;
+  font-size: 20px;
+  color: black;
+  pointer-events: none;
+} */
